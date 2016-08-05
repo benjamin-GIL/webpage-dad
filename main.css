@@ -1,0 +1,8 @@
+#dos{color:pink;}
+p#parrafo1{
+  color: red;
+}
+
+.textorojo{color:red;}
+.textoazul{color:#003399;display:none; }
+.textoverde{color:rgb(0, 255, 0);}
